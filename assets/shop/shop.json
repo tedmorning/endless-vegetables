@@ -1,0 +1,188 @@
+{"frames": [
+
+{
+	"filename": "shop_box_01.png",
+	"frame": {"x":0,"y":92,"w":113,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":100},
+	"sourceSize": {"w":113,"h":100}
+},
+{
+	"filename": "shop_box_02.png",
+	"frame": {"x":257,"y":0,"w":114,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":92},
+	"sourceSize": {"w":114,"h":92}
+},
+{
+	"filename": "shop_box_03.png",
+	"frame": {"x":129,"y":0,"w":127,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":127,"h":92},
+	"sourceSize": {"w":127,"h":92}
+},
+{
+	"filename": "shop_box_04.png",
+	"frame": {"x":0,"y":0,"w":128,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":92},
+	"sourceSize": {"w":128,"h":92}
+},
+{
+	"filename": "shop_item_01.png",
+	"frame": {"x":0,"y":594,"w":105,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":104},
+	"sourceSize": {"w":105,"h":104}
+},
+{
+	"filename": "shop_item_02.png",
+	"frame": {"x":220,"y":490,"w":105,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":104},
+	"sourceSize": {"w":105,"h":104}
+},
+{
+	"filename": "shop_item_03.png",
+	"frame": {"x":112,"y":594,"w":105,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":103},
+	"sourceSize": {"w":105,"h":103}
+},
+{
+	"filename": "shop_item_04.png",
+	"frame": {"x":109,"y":490,"w":105,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":104},
+	"sourceSize": {"w":105,"h":104}
+},
+{
+	"filename": "shop_item_05.png",
+	"frame": {"x":230,"y":387,"w":105,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":103},
+	"sourceSize": {"w":105,"h":103}
+},
+{
+	"filename": "shop_item_06.png",
+	"frame": {"x":110,"y":387,"w":105,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":103},
+	"sourceSize": {"w":105,"h":103}
+},
+{
+	"filename": "shop_item_07.png",
+	"frame": {"x":0,"y":490,"w":105,"h":103},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":103},
+	"sourceSize": {"w":105,"h":103}
+},
+{
+	"filename": "shop_item_08.png",
+	"frame": {"x":0,"y":387,"w":105,"h":102},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":102},
+	"sourceSize": {"w":105,"h":102}
+},
+{
+	"filename": "shop_item_09.png",
+	"frame": {"x":125,"y":292,"w":123,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":95},
+	"sourceSize": {"w":123,"h":95}
+},
+{
+	"filename": "shop_item_10.png",
+	"frame": {"x":0,"y":292,"w":124,"h":94},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":94},
+	"sourceSize": {"w":124,"h":94}
+},
+{
+	"filename": "shop_item_11.png",
+	"frame": {"x":248,"y":294,"w":123,"h":92},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":92},
+	"sourceSize": {"w":123,"h":92}
+},
+{
+	"filename": "shop_item_12.png",
+	"frame": {"x":220,"y":201,"w":124,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":124,"h":89},
+	"sourceSize": {"w":124,"h":89}
+},
+{
+	"filename": "shop_item_13.png",
+	"frame": {"x":0,"y":192,"w":98,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":100},
+	"sourceSize": {"w":98,"h":100}
+},
+{
+	"filename": "shop_item_14.png",
+	"frame": {"x":247,"y":93,"w":105,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":105,"h":99},
+	"sourceSize": {"w":105,"h":99}
+},
+{
+	"filename": "shop_item_15.png",
+	"frame": {"x":99,"y":205,"w":118,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":81},
+	"sourceSize": {"w":118,"h":81}
+},
+{
+	"filename": "shop_item_16.png",
+	"frame": {"x":118,"y":101,"w":117,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":117,"h":81},
+	"sourceSize": {"w":117,"h":81}
+},
+{
+	"filename": "shop_lv_01.png",
+	"frame": {"x":279,"y":612,"w":31,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":31,"h":11},
+	"sourceSize": {"w":31,"h":11}
+},
+{
+	"filename": "shop_lv_02.png",
+	"frame": {"x":243,"y":612,"w":33,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":13},
+	"sourceSize": {"w":33,"h":13}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "shop.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:5daf6c006ff7fb8d774c54d250ffa971$"
+}
+}

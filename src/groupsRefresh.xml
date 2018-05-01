@@ -1,0 +1,442 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+    <title>蔬菜关卡刷新</title>
+    <version>0.01v</version>
+
+    <group>
+        <time>0</time>
+        <wave>1</wave>
+        <monsterNumber>3</monsterNumber>
+        <wavegroup>2</wavegroup>
+        <monstergroup>
+	        <idgroup>A1|A2</idgroup>
+	        <monsterType>G1*3</monsterType>	        
+	    </monstergroup>
+	    
+        <monstergroup>
+	        <idgroup>A3</idgroup>
+	        <monsterType>G1*3</monsterType>	        
+	    </monstergroup>
+    </group>        
+        
+    <group>
+        <time>4</time>
+        <wave>2</wave>
+        <monsterNumber>5</monsterNumber>
+        <wavegroup>3</wavegroup>  
+        <monstergroup>
+	        <idgroup>A6</idgroup>
+	        <monsterType>G1*3|G2*2</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A7</idgroup>
+	        <monsterType>G1*3|G2*2</monsterType>	        
+	    </monstergroup>
+        
+        <monstergroup>
+	        <idgroup>A8</idgroup>
+	        <monsterType>G1*3|G2*2</monsterType>	        
+	    </monstergroup>
+     </group> 
+
+     <group>
+        <time>8</time>
+        <wave>3</wave>
+        <monsterNumber>5</monsterNumber>
+        <wavegroup>2</wavegroup>  
+        <monstergroup>
+	        <idgroup>A4</idgroup>
+	        <monsterType>G1*3|G2*2</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A5</idgroup>
+	        <monsterType>G1*3|G2*2</monsterType>	        
+	    </monstergroup>
+     </group>        
+
+    <group>
+        <time>12</time>
+        <wave>4</wave>
+        <monsterNumber>6</monsterNumber>
+        <wavegroup>3</wavegroup>
+        <monstergroup>
+	        <idgroup>A11</idgroup>
+	        <monsterType>G1*3|G2*3</monsterType>	        
+	    </monstergroup>
+	    
+        <monstergroup>
+	        <idgroup>A7|A1</idgroup>
+	        <monsterType>G1*3|G2*3</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A8|A1</idgroup>
+	        <monsterType>G1*3|G2*3</monsterType>	        
+	    </monstergroup>
+     </group> 
+       
+    <group>
+        <time>18</time>
+        <wave>5</wave>
+        <monsterNumber>7</monsterNumber>
+        <wavegroup>3</wavegroup>
+        <monstergroup>
+	        <idgroup>A12</idgroup>
+	        <monsterType>G1*3|G2*4</monsterType>	        
+	    </monstergroup>
+
+        <monstergroup>
+	        <idgroup>A7|A2</idgroup>
+	        <monsterType>G1*3|G2*4</monsterType>	        
+	    </monstergroup>
+        
+        <monstergroup>
+	        <idgroup>A8|A2</idgroup>
+	        <monsterType>G1*3|G2*4</monsterType>	        
+	    </monstergroup>
+     </group> 
+       
+    <group>
+        <time>24</time>
+        <wave>6</wave>
+        <monsterNumber>8</monsterNumber>
+        <wavegroup>3</wavegroup>
+        <monstergroup>
+	        <idgroup>A13</idgroup>
+	        <monsterType>G1*4|G2*4</monsterType>	        
+	    </monstergroup>
+	    
+        <monstergroup>
+	        <idgroup>A11|A2</idgroup>
+	        <monsterType>G1*4|G2*4</monsterType>	        
+	    </monstergroup>
+        
+        <monstergroup>
+	        <idgroup>A7|A3</idgroup>
+	        <monsterType>G1*4|G2*4</monsterType>	        
+	    </monstergroup>
+     </group>        
+
+    <group>
+        <time>32</time>
+        <wave>7</wave>
+        <monsterNumber>9</monsterNumber>
+        <wavegroup>2</wavegroup>
+        <monstergroup>
+	        <idgroup>A14</idgroup>
+	        <monsterType>G1*4|G2*4|G3*1</monsterType>	        
+	    </monstergroup>
+	    
+        <monstergroup>
+	        <idgroup>A15</idgroup>
+	        <monsterType>G1*4|G2*4|G3*1</monsterType>	        
+	    </monstergroup>
+     </group> 
+
+    <group>
+        <time>40</time>
+        <wave>8</wave>
+        <monsterNumber>9</monsterNumber>
+        <wavegroup>3</wavegroup>
+        <monstergroup>
+	        <idgroup>A12|A2</idgroup>
+	        <monsterType>G1*4|G2*4|G3*1</monsterType>	        
+	    </monstergroup>
+	    
+        <monstergroup>
+	        <idgroup>A11|A3</idgroup>
+	        <monsterType>G1*4|G2*4|G3*1</monsterType>	        
+	    </monstergroup>
+
+        <monstergroup>
+	        <idgroup>A13|A1</idgroup>
+	        <monsterType>G1*4|G2*4|G3*1</monsterType>	        
+	    </monstergroup>
+     </group> 
+       
+    <group>
+        <time>49</time>
+        <wave>9</wave>
+        <monsterNumber>10</monsterNumber>
+        <wavegroup>2</wavegroup>
+        <monstergroup>
+	        <idgroup>A14|A1</idgroup>
+	        <monsterType>G1*5|G2*4|G3*1</monsterType>	        
+	    </monstergroup>
+	    
+        <monstergroup>
+	        <idgroup>A15|A1</idgroup>
+	        <monsterType>G1*5|G2*4|G3*1</monsterType>	        
+	    </monstergroup>  
+     </group>
+
+    <group>
+        <time>58</time>
+        <wave>10</wave>
+        <monsterNumber>10</monsterNumber>
+        <wavegroup>2</wavegroup>
+        <monstergroup>
+	        <idgroup>A7|A5</idgroup>
+	        <monsterType>G1*5|G2*4|G3*1</monsterType>	        
+	    </monstergroup>
+	    
+        <monstergroup>
+	        <idgroup>A8|A5</idgroup>
+	        <monsterType>G1*5|G2*4|G3*1</monsterType>	        
+	    </monstergroup>  
+     </group>
+        
+    <group>
+        <time>68</time>
+        <wave>11</wave>
+        <monsterNumber>11</monsterNumber>
+        <wavegroup>3</wavegroup>
+        <monstergroup>
+	        <idgroup>A13|A3</idgroup>
+	        <monsterType>G1*4|G2*5|G3*2</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A14|A2</idgroup>
+	        <monsterType>G1*4|G2*5|G3*2</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A15|A2</idgroup>
+	        <monsterType>G1*4|G2*5|G3*2</monsterType>	        
+	    </monstergroup>
+     </group>        
+
+    <group>//1
+        <time>78</time>
+        <wave>12</wave>
+        <monsterNumber>9</monsterNumber>
+        <wavegroup>2</wavegroup>
+        <monstergroup>
+	        <idgroup>A14</idgroup>
+	        <monsterType>G1*4|G2*3|G3*2</monsterType>	        
+	    </monstergroup>
+	    
+        <monstergroup>
+	        <idgroup>A15</idgroup>
+	        <monsterType>G1*4|G2*3|G3*2</monsterType>	        
+	    </monstergroup>
+     </group> 
+
+    <group>
+        <time>81</time>
+        <wave>13</wave>
+        <monsterNumber>5</monsterNumber>
+        <wavegroup>3</wavegroup>
+        <monstergroup>
+	        <idgroup>A5</idgroup>
+	        <monsterType>G1*3|G2*2</monsterType>	        
+	    </monstergroup>
+	    
+        <monstergroup>
+	        <idgroup>A7</idgroup>
+	        <monsterType>G1*3|G2*2</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A8</idgroup>
+	        <monsterType>G1*3|G2*2</monsterType>	        
+	    </monstergroup>
+     </group> 
+
+    <group>
+        <time>90</time>
+        <wave>14</wave>
+        <monsterNumber>6</monsterNumber>
+        <wavegroup>1</wavegroup>
+        <monstergroup>
+	        <idgroup>A9</idgroup>
+	        <monsterType>G1*2|G2*2|G3*2</monsterType>	        
+	    </monstergroup>
+     </group> 
+
+    <group>
+        <time>92</time>
+        <wave>15</wave>
+        <monsterNumber>6</monsterNumber>
+        <wavegroup>4</wavegroup>
+        <monstergroup>
+	        <idgroup>A10</idgroup>
+	        <monsterType>G1*2|G2*3|G3*1</monsterType>	        
+	    </monstergroup>
+     </group> 
+
+    <group>
+        <time>100</time>
+        <wave>16</wave>
+        <monsterNumber>10</monsterNumber>
+        <wavegroup>4</wavegroup>
+        <monstergroup>
+	        <idgroup>A14|A1</idgroup>
+	        <monsterType>G1*5|G2*4|G3*1</monsterType>	        
+	    </monstergroup>
+	    
+        <monstergroup>
+	        <idgroup>A15|A1</idgroup>
+	        <monsterType>G1*5|G2*4|G3*1</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A13|A2</idgroup>
+	        <monsterType>G1*5|G2*4|G3*1</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A12|A3</idgroup>
+	        <monsterType>G1*5|G2*4|G3*1</monsterType>	        
+	    </monstergroup>
+     </group>
+        
+    <group>
+        <time>103</time>
+        <wave>17</wave>
+        <monsterNumber>6</monsterNumber>
+        <wavegroup>4</wavegroup>
+        <monstergroup>
+	        <idgroup>A11</idgroup>
+	        <monsterType>G1*3|G3*3</monsterType>	        
+	    </monstergroup>
+	    
+        <monstergroup>
+	        <idgroup>A7|A1</idgroup>
+	        <monsterType>G1*3|G3*3</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A8|A1</idgroup>
+	        <monsterType>G1*3|G3*3</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A1|A2|A3</idgroup>
+	        <monsterType>G1*3|G3*3</monsterType>	        
+	    </monstergroup>
+     </group>                       
+
+    <group>
+        <time>115</time>
+        <wave>18</wave>
+        <monsterNumber>10</monsterNumber>
+        <wavegroup>4</wavegroup>
+        <monstergroup>
+	        <idgroup>A14|A1</idgroup>
+	        <monsterType>G1*3|G2*4|G3*3</monsterType>	        
+	    </monstergroup>
+	    
+        <monstergroup>
+	        <idgroup>A15|A1</idgroup>
+	        <monsterType>G1*3|G2*4|G3*3</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A13|A2</idgroup>
+	        <monsterType>G1*3|G2*4|G3*3</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A12|A3</idgroup>
+	        <monsterType>G1*3|G2*4|G3*3</monsterType>	        
+	    </monstergroup>
+     </group>        
+
+    <group>
+        <time>118</time>
+        <wave>19</wave>
+        <monsterNumber>8</monsterNumber>
+        <wavegroup>2</wavegroup>
+        <monstergroup>
+	        <idgroup>A11|A2</idgroup>
+	        <monsterType>G1*2|G2*3|G3*3</monsterType>	        
+	    </monstergroup>
+        <monstergroup>
+	        <idgroup>A7|A3</idgroup>
+	        <monsterType>G1*2|G2*3|G3*3</monsterType>	        
+	    </monstergroup>
+     </group>        
+
+    <group>
+        <time>130</time>
+        <wave>20</wave>
+        <monsterNumber>10</monsterNumber>
+        <wavegroup>4</wavegroup>
+        <monstergroup>
+	        <idgroup>A14|A1</idgroup>
+	        <monsterType>G1*4|G2*2|G3*4</monsterType>	        
+	    </monstergroup>
+	    
+        <monstergroup>
+	        <idgroup>A15|A2</idgroup>
+	        <monsterType>G1*4|G2*2|G3*4</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A12|A3</idgroup>
+	        <monsterType>G1*4|G2*2|G3*4</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A13|A2</idgroup>
+	        <monsterType>G1*4|G2*2|G3*4</monsterType>	        
+	    </monstergroup>
+     </group> 
+
+    <group>
+        <time>133</time>
+        <wave>21</wave>
+        <monsterNumber>6</monsterNumber>
+        <wavegroup>4</wavegroup>
+        <monstergroup>
+	        <idgroup>A11</idgroup>
+	        <monsterType>G1*3|G2*3</monsterType>	        
+	    </monstergroup>
+	    
+        <monstergroup>
+	        <idgroup>A7|A1</idgroup>
+	        <monsterType>G1*3|G2*3</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A8|A1</idgroup>
+	        <monsterType>G1*3|G2*3</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A1|A2|A3</idgroup>
+	        <monsterType>G1*3|G2*3</monsterType>	        
+	    </monstergroup>
+     </group>        
+
+    <group>
+        <time>135</time>
+        <wave>22</wave>
+        <monsterNumber>7</monsterNumber>
+        <wavegroup>2</wavegroup>
+        <monstergroup>
+	        <idgroup>A7|A2</idgroup>
+	        <monsterType>G2*2|G3*5</monsterType>	        
+	    </monstergroup>
+    
+        <monstergroup>
+	        <idgroup>A8|A2</idgroup>
+	        <monsterType>G2*2|G3*5</monsterType>	        
+	    </monstergroup>
+     </group>               
+
+    <group>
+        <time>150</time>
+        <wave>23</wave>
+        <monsterNumber>1</monsterNumber>
+        <wavegroup>1</wavegroup>
+        <monstergroup>
+	        <idgroup>A1</idgroup>
+	        <monsterType>G4*1</monsterType>	        
+	    </monstergroup>	    
+     </group>        
+</channel>    

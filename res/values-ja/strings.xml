@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Grow Away</string>
+    <string name="gemsTier1">gemstier1</string>
+    <string name="gemsTier2">gemstier2</string>
+    <string name="gemsTier5">gemstier5</string>
+    <string name="gemsTier10">gemstier10</string>
+    <string name="gemsTier20">gemstier20</string>
+    <string name="removeads">removeads</string>
+    <string name="cannot_connect_title">Can\'t connect to Market</string>
+    <string name="cannot_connect_message">This app cannot connect to Market.
+     Your version of Market may be out of date.
+     You can continue to use this app but you
+     won\'t be able to make purchases.</string>
+    <string name="billing_not_supported_title">Can\'t make purchases</string>
+    <string name="billing_not_supported_message">The Market billing
+     service is not available at this time.  You can continue to use this app but you
+     won\'t be able to make purchases.</string>
+    <string name="help_url" formatted="false">http://market.android.com/support/bin/answer.py?answer=1050566&amp;hl=%lang%&amp;dl=%region%</string>
+    <string name="learn_more">Learn more</string>
+    <string name="restoring_transactions">Restoring transactions</string>
+    
+    <string name="language">ja</string>
+    
+        <string name="apptentive_rating_title">Thank You</string>
+    <string name="apptentive_rating_message">Rating GrowAway and get </string>
+    <string name="apptentive_rating_message2"> Gems FREE! If you enjoy GrowAway, we’d really appreciated you taking the time to rate us.</string>
+   
+    <string name="apptentive_rating_message3">If you enjoy GrowAway, we’d really appreciated you taking the time to rate us.</string>
+    <string name="apptentive_rating_rate">Rate it</string>
+    <string name="apptentive_rating_feedback">contact us</string>
+    <string name="apptentive_rating_remind">Reminde me later</string>
+    <string name="apptentive_rating_no">No Thanks</string>
+</resources>

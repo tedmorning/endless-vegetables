@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">kokatlar uruxi</string>
+    <string name="gemsTier1">gemstier1</string>
+    <string name="gemsTier2">gemstier2</string>
+    <string name="gemsTier5">gemstier5</string>
+    <string name="gemsTier10">gemstier10</string>
+    <string name="gemsTier20">gemstier20</string>
+    <string name="removeads">removeads</string>
+    <string name="cannot_connect_title">Can\'t connect to Market</string>
+    <string name="cannot_connect_message">This app cannot connect to Market.
+     Your version of Market may be out of date.
+     You can continue to use this app but you
+     won\'t be able to make purchases.</string>
+    <string name="billing_not_supported_title">Can\'t make purchases</string>
+    <string name="billing_not_supported_message">The Market billing
+     service is not available at this time.  You can continue to use this app but you
+     won\'t be able to make purchases.</string>
+    <string name="help_url" formatted="false">http://market.android.com/support/bin/answer.py?answer=1050566&amp;hl=%lang%&amp;dl=%region%</string>
+    <string name="learn_more">Learn more</string>
+    <string name="restoring_transactions">Restoring transactions</string>
+    
+    <string name="language">en</string>
+    
+    <string name="apptentive_rating_title">Thank You</string>
+    <string name="apptentive_rating_message">Rating GrowAway and get </string>
+    <string name="apptentive_rating_message2"> Gems FREE! If you enjoy GrowAway, we’d really appreciated you taking the time to rate us.</string>
+   
+    <string name="apptentive_rating_message3">If you enjoy GrowAway, we’d really appreciated you taking the time to rate us.</string>
+    <string name="apptentive_rating_rate">Rate it</string>
+    <string name="apptentive_rating_feedback">contact us</string>
+    <string name="apptentive_rating_remind">Reminde me later</string>
+    <string name="apptentive_rating_no">No Thanks</string>
+    
+    
+    
+	<!--   string name="gold_lack">金币不足</string-->
+	<!--string name="gem_lack">钻石不足</string-->
+	<!--string name="quality_max">品质已达上限</string-->
+	<!-- 这是fecabook的id -->
+	<string name="applicationId">1377426989165143</string>
+	<!--string name="network_ok">,可能因为网络设置问题</string-->
+  
+	<!-- 农场界面 -->
+	<!--string name="no_loading">Writing</string -->
+	<!--string name="title_loading">log in facebook open</string-->
+    <!--string name="remaining_time">minute later</string-->
+     <!-- 农场de 按钮状态 可收获 可种植  -->
+    <!--string name="button_harvest">harvest</string-->
+    <!--string name="button_demandplant">demandplant</string-->
+    <!--string name="res_title">操作失败</string-->
+  
+    <!-- 登录自己服务起提示 -->
+    <!-- string name="loading_save">未登录facebook</string-->
+    <!-- 请求体力没有好友提示
+    <string name="no_friend">没有好友!</string>
+    <string name="buyok">购买成功!</string>
+    <string name="reqsend">请求已发送!</string>
+    <string name="reqtext">我要向{name}索要体力!</string>
+    <string name="reqmsgtext">请求体力!</string>
+    <string name="getmsgtext">接受请求!</string> -->
+    <!-- 奖励界面
+    <string name="setnumber">Get {number} Gems</string> -->
+    <!-- 弹出的关卡解释界面 
+    <string name="unlock_star">Need {number} starts to unlock</string>
+    <string name="unlock_diamond">Unlock directly</string>-->
+    <!-- 设置界面 
+ 	<string name="music">Music</string>
+    <string name="sound">Sound</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="log_in">Log in</string>
+    <string name="cancel">Cancel</string>-->
+     <!-- 成就界面 
+ 	<string name="success_1">登陆FACEBOOK</string>
+ 	<string name="success_2">强化一次弹弓</string>
+ 	<string name="success_3">强化城墙到最高级</string>
+ 	<string name="success_4">击败一次BOSS</string>
+ 	<string name="success_5">累计使用100个道具</string>
+ 	<string name="success_6">累计评价100颗星星</string>
+ 	<string name="success_7">获得1张三星卡</string>
+ 	<string name="success_8">三星评价通过60关</string>
+ 	<string name="success_9">累计使用100次燃烧</string>
+ 	<string name="success_10">集齐10种三星蔬菜</string>-->
+     <!-- 充值界面 
+ 	<string name="bonus">Bonus</string>
+ 	<string name="buyok">购买成功</string>
+ 	<string name="rmb_deficiency">RMB不足</string>
+ 	
+ 	<string name="gmes">Gmes</string>
+ 	<string name="golds">Golds</string>
+ 	<string name="cards">Cards</string>-->
+     
+</resources>

@@ -1,0 +1,77 @@
+{"frames": [
+
+{
+	"filename": "caidan1.png",
+	"frame": {"x":0,"y":0,"w":81,"h":84},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":84},
+	"sourceSize": {"w":81,"h":84}
+},
+{
+	"filename": "caidan2.png",
+	"frame": {"x":137,"y":114,"w":58,"h":54},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":58,"h":54},
+	"sourceSize": {"w":58,"h":54}
+},
+{
+	"filename": "caidan3.png",
+	"frame": {"x":81,"y":0,"w":112,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":112,"h":113},
+	"sourceSize": {"w":112,"h":113}
+},
+{
+	"filename": "card.png",
+	"frame": {"x":193,"y":0,"w":61,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":61,"h":74},
+	"sourceSize": {"w":61,"h":74}
+},
+{
+	"filename": "shop.png",
+	"frame": {"x":0,"y":85,"w":80,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":72},
+	"sourceSize": {"w":80,"h":72}
+},
+{
+	"filename": "zhandao2.png",
+	"frame": {"x":195,"y":74,"w":88,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":88,"h":79},
+	"sourceSize": {"w":88,"h":79}
+},
+{
+	"filename": "zhandao.png",
+	"frame": {"x":196,"y":153,"w":57,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":50},
+	"sourceSize": {"w":57,"h":50}
+},
+{
+	"filename": "shuo.png",
+	"frame": {"x":81,"y":113,"w":56,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":56,"h":57},
+	"sourceSize": {"w":56,"h":57}
+
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "org2.png",
+	"format": "RGBA8888",
+	"size": {"w":809,"h":517},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2d7346664dd776effed74824c50e8ff5$"
+}
+}

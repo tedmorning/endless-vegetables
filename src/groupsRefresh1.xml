@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+    <title>蔬菜关卡刷新</title>
+    <version>0.01v</version>
+
+    <group>
+        <time>0</time>
+        <wave>1</wave>
+        <monsterNumber>3</monsterNumber>
+        <wavegroup>2</wavegroup>
+        <monstergroup>
+	        <idgroup>A1|A2</idgroup>
+	        <monsterType>G1*3</monsterType>	        
+	    </monstergroup>
+	    
+        <monstergroup>
+	        <idgroup>A3</idgroup>
+	        <monsterType>G1*3</monsterType>	        
+	    </monstergroup>
+    </group>        
+        
+</channel>    

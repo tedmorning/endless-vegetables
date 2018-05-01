@@ -1,0 +1,140 @@
+{"frames": [
+
+{
+	"filename": "big_tree.png",
+	"frame": {"x":0,"y":0,"w":511,"h":379},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":511,"h":379},
+	"sourceSize": {"w":511,"h":379}
+},
+{
+	"filename": "big_hill.png",
+	"frame": {"x":511,"y":0,"w":381,"h":189},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":381,"h":189},
+	"sourceSize": {"w":381,"h":189}
+},
+{
+	"filename": "lake_1.png",
+	"frame": {"x":511,"y":190,"w":429,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":429,"h":190},
+	"sourceSize": {"w":429,"h":190}
+},
+{
+	"filename": "lake_2.png",
+	"frame": {"x":0,"y":380,"w":577,"h":120},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":577,"h":120},
+	"sourceSize": {"w":577,"h":120}
+},
+{
+	"filename": "stoneroad.png",
+	"frame": {"x":577,"y":380,"w":129,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":129,"h":53},
+	"sourceSize": {"w":129,"h":53}
+},
+{
+	"filename": "light_spot_y.png",
+	"frame": {"x":704,"y":380,"w":28,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+	"sourceSize": {"w":28,"h":28}
+},
+{
+	"filename": "light_spot_g.png",
+	"frame": {"x":732,"y":379,"w":28,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":28},
+	"sourceSize": {"w":28,"h":28}
+},
+{
+	"filename": "cave.png",
+	"frame": {"x":577,"y":433,"w":39,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":46},
+	"sourceSize": {"w":39,"h":46}
+},
+{
+	"filename": "tree_3.png",
+	"frame": {"x":0,"y":500,"w":217,"h":214},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":217,"h":214},
+	"sourceSize": {"w":217,"h":214}
+},
+{
+	"filename": "waterfall.png",
+	"frame": {"x":217,"y":500,"w":82,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":112},
+	"sourceSize": {"w":82,"h":112}
+},
+{
+	"filename": "fence.png",
+	"frame": {"x":299,"y":500,"w":167,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":167,"h":60},
+	"sourceSize": {"w":167,"h":60}
+},
+{
+	"filename": "small_hill.png",
+	"frame": {"x":301,"y":560,"w":165,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":101},
+	"sourceSize": {"w":165,"h":101}
+},
+{
+	"filename": "min_cultivate.png",
+	"frame": {"x":469,"y":485,"w":87,"h":107},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":107},
+	"sourceSize": {"w":87,"h":107}
+},
+{
+	"filename": "min_cao.png",
+	"frame": {"x":566,"y":491,"w":57,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":48},
+	"sourceSize": {"w":57,"h":48}
+},
+{
+	"filename": "shadow.png",
+	"frame": {"x":467,"y":595,"w":322,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":322,"h":96},
+	"sourceSize": {"w":322,"h":96}
+},
+{
+	"filename": "pumpkin.png",
+	"frame": {"x":628,"y":444,"w":165,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":165,"h":146},
+	"sourceSize": {"w":165,"h":146}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "org4.png",
+	"format": "RGBA8888",
+	"size": {"w":809,"h":517},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2d7346664dd776effed74824c50e8ff5$"
+}
+}

@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+    <title>蔬菜排列类型</title>
+    <version>0.01v</version>
+
+    <item>
+        <id>A1</id>
+        <type>点</type>
+        <flashTime>0</flashTime>
+        <coordinate>240,0</coordinate>
+        <number>1</number>
+    </item>
+    
+    <item>
+        <id>A2</id>
+        <type>点</type>
+        <flashTime>0</flashTime>
+        <coordinate>160,40|320,40</coordinate>
+        <number>2</number>
+    </item>
+    
+    <item>
+        <id>A3</id>
+        <type>点</type>
+        <flashTime>0</flashTime>
+        <coordinate>240,80|120,80|360,80</coordinate>
+        <number>3</number>
+    </item>
+    
+    <item>
+        <id>A4</id>
+        <type>横向无间</type>
+        <flashTime>0</flashTime>
+        <coordinate>120,0|180,0|240,0|300,0|360,0</coordinate>
+        <number>5</number>
+    </item>
+    
+    <item>
+        <id>A5</id>
+        <type>横向间</type>
+        <flashTime>0</flashTime>
+        <coordinate>40,0|140,0|240,0|340,0|440,0</coordinate>
+        <number>5</number>
+    </item>
+    
+    <item>
+        <id>A6</id>
+        <type>纵向间</type>
+        <flashTime>0</flashTime>
+        <coordinate>240,0|240,40|240,80|240,120|240,160</coordinate>
+        <number>5</number>
+    </item>
+    
+    <item>
+        <id>A7</id>
+        <type>X形</type>
+        <flashTime>0</flashTime>
+        <coordinate>190,120|240,180|190,240|290,120|290,240</coordinate>
+        <number>5</number>
+    </item>
+    
+    <item>
+        <id>A8</id>
+        <type>V形</type>
+        <flashTime>0</flashTime>
+        <coordinate>190,130|140,80|240,180|290,130|340,80</coordinate>
+        <number>5</number>
+    </item>
+    
+    <item>
+        <id>A9</id>
+        <type>左梯形</type>
+        <flashTime>0</flashTime>
+        <coordinate>40,80|80,120|120,160|160,200|120,80|160,120</coordinate>
+        <number>6</number>
+    </item>
+   
+    <item>
+        <id>A10</id>
+        <type>右梯形</type>
+        <flashTime>0</flashTime>
+        <coordinate>440,80|400,120|360,160|340,200|360,80|340,120</coordinate>
+        <number>6</number>
+    </item>    
+    
+   <item>
+        <id>A11</id>
+        <type>箭头形</type>
+        <flashTime>0</flashTime>
+        <coordinate>240,240|240,200|300,200|180,200|240,160|240,120</coordinate>
+        <number>6</number>
+    </item>
+    
+    <item>
+        <id>A12</id>
+        <type>大横无间</type>
+        <flashTime>0</flashTime>
+        <coordinate>60,0|120,0|180,0|240,0|300,0|360,0|420,0</coordinate>
+        <number>7</number>
+    </item>
+    
+    <item>
+        <id>A13</id>
+        <type>心形</type>
+        <flashTime>0</flashTime>
+  <coordinate>240,150|180,100|300,100|120,150|360,150|180,200|300,200|240,250</coordinate>
+        <number>8</number>
+    </item>
+   
+    <item>
+        <id>A14</id>
+        <type>三角形</type>
+        <flashTime>0</flashTime>
+        <coordinate>240,350|240,310|180,310|300,310|120,270|180,270|240,270|300,270|360,270</coordinate>
+        <number>9</number>
+    </item>        
+    <item>
+        <id>A15</id>
+        <type>W形</type>
+        <flashTime>0</flashTime>
+        <coordinate>80,220|120,260|160,300|200,260|240,220|280,260|320,300|360,260|400,220</coordinate>
+        <number>2</number>
+    </item>    
+</channel>     
